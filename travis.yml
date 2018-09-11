@@ -1,4 +1,4 @@
-script : ./tester basics
-langue : node_js 
+script : ./tester
+langue : node_js
 node_js :
- - " noeud "
+  - " noeud "
