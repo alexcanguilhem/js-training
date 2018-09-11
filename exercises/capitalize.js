@@ -6,7 +6,7 @@
  * and in lowercase for the rest of the string
  *
  */
-
+function
 
 //* Begin of tests
 const assert = require('assert')
