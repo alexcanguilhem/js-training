@@ -1,4 +1,0 @@
-script : ./tester basics
-langue : node_js
-node_js :
-  - " noeud "
